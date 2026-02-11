@@ -6,7 +6,7 @@ Layout de blog desenvolvido com **HTML5 e CSS3**, com foco em estruturação sem
 
 ## 🚀 Demonstração
 
-🔗 GitHub Pages: *[Link]()*
+🔗 GitHub Pages: *[Link](https://christxrres.github.io/blog-semantico-natureza/)*
 
 ## 🛠️ Tecnologias utilizadas
 
